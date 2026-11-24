@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aeromain.zodiacrace",
+        "sha256_cert_fingerprints": ["35:44:77:84:41:CA:60:61:69:44:B7:C8:6F:D1:CB:D6:2D:AE:76:BD:F8:B1:E0:56:62:05:DE:53:02:2E:56:40"]
+      }
+    }]
